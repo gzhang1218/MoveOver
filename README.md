@@ -1,2 +1,2 @@
 # MoveOver
-An app for avoiding emergency response vehicles created at IncubateX Houston 2016
+A pair of Android apps that act in conjunction as a secondary alert system, notifying drivers to avoid oncoming emergency response vehicles.
