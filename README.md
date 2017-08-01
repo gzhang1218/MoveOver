@@ -1,2 +1,2 @@
 # MoveOver
-An app for avoiding emergencies created at IncubateX Houston 2016
+An app for avoiding emergency response vehicles created at IncubateX Houston 2016
